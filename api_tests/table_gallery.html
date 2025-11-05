@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мои тест-кейсы - Галерея</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .gallery { 
+            text-align: center; 
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .gallery-img { 
+            max-width: 100%; 
+            border: 2px solid #e1e1e1; 
+            border-radius: 5px;
+            margin: 10px 0; 
+        }
+        .nav { 
+            margin: 20px 0; 
+            text-align: center;
+        }
+        .nav button { 
+            padding: 12px 24px; 
+            margin: 0 10px; 
+            cursor: pointer; 
+            background: #2ea44f;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+        .nav button:hover {
+            background: #22863a;
+        }
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>📊 Мои тест-кейсы - Система управления</h1>
+    
+    <div class="nav">
+        <button onclick="showImage(1)">📋 Часть 1 - Структура</button>
+        <button onclick="showImage(2)">🧪 Часть 2 - Примеры</button>
+        <button onclick="showImage(3)">📈 Часть 3 - Статистика</button>
+    </div>
+
+    <div class="gallery">
+        <img id="image1" src="images/table1.png" class="gallery-img" style="display: block;">
+        <img id="image2" src="images/table2.png" class="gallery-img" style="display: none;">
+        <img id="image3" src="images/table3.png" class="gallery-img" style="display: none;">
+    </div>
+
+    <a href="README.md" class="back-link">← Назад к портфолио</a>
+
+    <script>
+        function showImage(num) {
+            // Скрываем все изображения
+            document.getElementById('image1').style.display = 'none';
+            document.getElementById('image2').style.display = 'none';
+            document.getElementById('image3').style.display = 'none';
+            
+            // Показываем выбранное
+            document.getElementById('image' + num).style.display = 'block';
+        }
+    </script>
+</body>
+</html>
