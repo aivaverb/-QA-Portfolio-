@@ -62,4 +62,4 @@
 **Статус теста:** FAILED ❌
 
 ##  📎 Вложение
-[Мой тест-кейс в TestLink](images/bug_missing_name_validation.png)
+[Мой тест-кейс в TestLink](/images/bug_missing_name_validation.png)
