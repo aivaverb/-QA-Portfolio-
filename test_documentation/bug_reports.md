@@ -34,4 +34,4 @@
 
 ### 📎 Вложения
 
-[Скриншот бага](../images/user_registration_without_consent.png)
+[Скриншот бага](../images/redmine/user_registration_without_consent.png)
