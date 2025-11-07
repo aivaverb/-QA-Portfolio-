@@ -10,7 +10,7 @@
 ### TestLink  
 _**Примеры структуры тест-кейсов в TestLink**_
 
-![Регистрация пользователя с именем на латинице](images/Testlink/testlink_testcase_interface.png)
+![Регистрация пользователя с именем на латинице](/images/Testlink/testlink_testcase_interface.png)
 
 *Регистрация пользователя с именем на латинице*
 
@@ -20,7 +20,7 @@ _**Примеры структуры тест-кейсов в TestLink**_
 ### Redmine
 _**Пример оформления баг-репортов в Redmine**_
 
-![Баг-репорты в Redmine](images/redmine/user_registration_without_consent.png)
+![Баг-репорты в Redmine](/images/redmine/user_registration_without_consent.png)
 
 [Детальное описание бага](.test_documentation/bug_reports.md)
 
