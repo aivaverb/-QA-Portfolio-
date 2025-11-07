@@ -15,6 +15,7 @@ _**Примеры структуры тест-кейсов в TestLink**_
 
 ![Регистрация пользователя без имени](/images/Testlink/bug_missing_name_validation.png)
 *Регистрация пользователя без имени*
+![Тест-кейсы](/test_documentation/test_cases.md)
 
 ### Redmine
 _**Пример оформления баг-репортов в Redmine**_
