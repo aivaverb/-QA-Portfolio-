@@ -11,7 +11,7 @@
 _**Примеры структуры тест-кейсов в TestLink**_
 
 
-[Регистрация пользователя с именем на латинице](images/Testlink/testlink_testcase_interface.png)
+[Регистрация пользователя с именем на латинице](/images/Testlink/testlink_testcase_interface.png)
 
 
 ![2.Тест-кейс в TestLink](/images/Testlink/bug_missing_name_validation.png)
