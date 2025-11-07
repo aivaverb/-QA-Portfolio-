@@ -20,7 +20,7 @@ _**Примеры структуры тест-кейсов в TestLink**_
 ### Redmine
 _**Пример оформления баг-репортов в Redmine**_
 
-![Баг-репорты в Redmine](.images/redmine/user_registration_without_consent.png)
+![Баг-репорты в Redmine](images/redmine/user_registration_without_consent.png)
 
 [Детальное описание бага](.test_documentation/bug_reports.md)
 
