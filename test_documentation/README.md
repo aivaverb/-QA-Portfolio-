@@ -13,13 +13,13 @@ _**Примеры структуры тест-кейсов в TestLink**_
 ![1.Тест-кейс в TestLink](/images/Testlink/testlink_testcase_interface.png)
 *Регистрация пользователя с именем на латинице*
 
-![2.Тест-кейс в TestLink](images/Testlink/bug_missing_name_validation.png)
+![2.Тест-кейс в TestLink](/images/Testlink/bug_missing_name_validation.png)
 *Регистрация пользователя без имени*
 
 ### Redmine
 _**Пример оформления баг-репортов в Redmine**_
-![Баг-репорты в Redmine](images/redmine/user_registration_without_consent.png)
-[Детальное описание бага](-QA-Portfolio-/test_documentation/bug_reports.md)
+![Баг-репорты в Redmine](/images/redmine/user_registration_without_consent.png)
+[Детальное описание бага](/test_documentation/bug_reports.md)
 
 
 ## 📑 Чек-листы
