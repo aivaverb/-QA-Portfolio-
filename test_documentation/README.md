@@ -10,12 +10,10 @@
 ### TestLink  
 _**Примеры структуры тест-кейсов в TestLink**_
 
-
 [Регистрация пользователя с именем на латинице](/images/Testlink/testlink_testcase_interface.png)
 
+![Регистрация пользователя без имени](/images/Testlink/bug_missing_name_validation.png)
 
-![2.Тест-кейс в TestLink](/images/Testlink/bug_missing_name_validation.png)
-*Регистрация пользователя без имени*
 
 ### Redmine
 _**Пример оформления баг-репортов в Redmine**_
