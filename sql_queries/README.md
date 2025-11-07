@@ -8,4 +8,4 @@
 
 ![Скриншот](/images/sql/sql.png)
 
-![Пример SQL запросов](/sql_queries/examples.sql)
+[Пример SQL запросов](/sql_queries/examples.sql)
