@@ -21,6 +21,7 @@ _**Пример оформления баг-репортов в Redmine**_
 
 ![Баг-репорты в Redmine](/images/redmine/user_registration_without_consent.png)
 *Регистрация пользователя без согласия на обработку данных*
+
 [Детальное описание бага](.test_documentation/bug_reports.md)
 
 
