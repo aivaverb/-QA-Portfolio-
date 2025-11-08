@@ -30,4 +30,4 @@ DELETE запрос на чужой комментарий возвращает 
 - Верифицировать владельца комментария перед удалением
 - Возвращать 403 Forbidden при попытке удалить чужой контент
 
-[Скриншот](./images/redmine/bug_foreign_comment_delete_200.png)
+[Скриншот](/images/redmine/bug_foreign_comment_delete_200.png)
