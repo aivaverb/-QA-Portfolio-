@@ -30,5 +30,5 @@ Python + Selenium автоматизация
 ## 📞 Контакты
 - **Email**: [verbova83@bk.ru]
 - **Telegram**: [@Elenverb]
-- **GitHub**: [твой-профиль](https://github.com/aivaverb)
+- **GitHub**: [мой-профиль](https://github.com/aivaverb)
 
