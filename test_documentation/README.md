@@ -21,11 +21,11 @@ _**Примеры структуры тест-кейсов в TestLink**_
 ### Redmine
 _**Пример оформления баг-репортов в Redmine**_
 
-![Баг-репорты в Redmine](/images/redmine/user_registration_without_consent.png)
+![Баг-репорт в Redmine](/images/redmine/user_registration_without_consent.png)
 *Регистрация пользователя без согласия на обработку данных*
-
 [Детальное описание бага](/test_documentation/bug_reports.md)
 
+![Баг-репорт в Redmine](/images/redmine/user_registration_without_consent.png)
 
 ## 📑 Чек-листы
 
